@@ -1,0 +1,2 @@
+ERD là 1 và chân gà
+Class diagram là 1 0..* hoặc 1 n
